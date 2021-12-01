@@ -26,7 +26,7 @@ print(C)
 ~~~
 
 ## Output:
-![OUTPUT]()
+![OUTPUT](https://github.com/Hp9806/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/blob/main/Screenshot%20(22).png?raw=true)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
